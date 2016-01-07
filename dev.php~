@@ -1,10 +1,13 @@
 <?php
 echo "testing";
 echo "testing 2nd line";
-
+<<<<<<< HEAD
 echo "extra line added in dev branched";
-echo "xxy";
 ?>
 Hello world
-
+=======
+echo "new line added";
+echo "xxy";
+?>
 wao
+>>>>>>> testing
