@@ -1,3 +1,4 @@
+<head>head section</head>
 <?php
 echo "test2";
 ?>
